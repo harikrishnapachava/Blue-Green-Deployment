@@ -1,14 +1,14 @@
-# Multi-Tier CICD Pipeline with SSL Certificate
+# Blue Green Deployment CICD Pipeline Project on AWS & EKS
 
 ###  Refer the below youtube video for the demo and the below project code and application code repositories
-- Youtube Demo: https://www.youtube.com/watch?v=pFzzWH3w03U&list=PLAdTNzDIZj_9c-o43WJ7yYBa5YEAkWiOv&index=2
-- Application code Repo: https://github.com/jaiswaladi246/Multi-Tier-With-Database
-- Project Code(This repository cloned from): https://github.com/jaiswaladi246/FullStack-Blogging-App
+- Youtube Demo: https://www.youtube.com/watch?v=tstBG7RC9as&list=PLAdTNzDIZj_9c-o43WJ7yYBa5YEAkWiOv&index=1
+- Application code Repo: 
+- Project Code(This repository cloned from): https://github.com/jaiswaladi246/Blue-Green-Deployment
 - Telegram Group: https://t.me/+9roGPjX1YI42Yzdl
 
 ###  𝗗𝗲𝘁𝗮𝗶𝗹𝗲𝗱 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁
   <tr>
-      <td align="center"><a href="DetailedDocument_MultiTier_CICD.pdf"><b>Detailed Document - MultiTier CICD Project on AWS & EKS</b></a></td>
+      <td align="center"><a href="BlueGreen_CICD_Pipeline_Project.pdf"><b>Detailed Document - Blue Green Deployment CICD Pipeline Project on AWS & EKS</b></a></td>
   </tr>
 
 
